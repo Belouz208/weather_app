@@ -40,6 +40,8 @@ class WeatherApp(QWidget):
         self.city_label.setAlignment(Qt.AlignCenter)
         self.city_label.setAlignment(Qt.AlignCenter)
 
+#bonjour
+
 
 
 
